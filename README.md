@@ -1,4 +1,4 @@
-# DSA-with-java
+# dsa_with_java
 🧠 DSA with JAVA
 
 Welcome to DSA with JAVA — a collection of Data Structures and Algorithms implementations written in Java.
